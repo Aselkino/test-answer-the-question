@@ -1,0 +1,11 @@
+.name-box{
+    background-color: cornflowerblue;
+    height: 50px;
+}
+.name{
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 50px;
+    text-align: right;
+}

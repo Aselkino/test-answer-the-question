@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    /* background-color: olive; */
+}
+.wrapper{
+    width: 980px;
+    /* border: 1px solid #000; */
+    margin: 0 auto;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
